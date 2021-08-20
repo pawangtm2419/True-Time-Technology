@@ -139,8 +139,9 @@
 	border-radius: 30px;
 }
 .owl-portfolio .item {
-	margin: 3px;
-	border:1px solid #106e9c;
+	margin: 10px;
+    border: 2px solid #106e9c;
+    border-radius: 3px;
 }
 .owl-portfolio .item img {
 	display: block;
